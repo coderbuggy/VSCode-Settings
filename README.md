@@ -304,7 +304,7 @@ Here are the list on Extensions that i'm using this days (We will update this po
 
 1. <a href="https://github.com/ritwickdey/vscode-live-server" target="_blank">Live Server :</a> Launch a development local Server with live reload feature for static & dynamic pages.
 
-2. <a href="[https://github.com/microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview)" target="_blank">Live Preview :</a> An extension that hosts a local server for you to preview your web projects on! (Updates preview without saving file).
+2. <a href="https://github.com/microsoft/vscode-livepreview" target="_blank">Live Preview :</a> An extension that hosts a local server for you to preview your web projects on! (Updates preview without saving file).
 
 ## My Theme Extensions
 
